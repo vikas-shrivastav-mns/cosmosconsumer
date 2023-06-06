@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: cosmosconsumer
+netty:
+  default:
+    allocator:
+      max-order: 3
